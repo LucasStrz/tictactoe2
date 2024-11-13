@@ -59,13 +59,15 @@
     float: left;
     font-size: 24px;
     font-weight: bold;
-    line-height: 10vh;
-    height: 10vh;
+    line-height: 70px;
+    min-height: 70px;
+
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 10vw;
+    min-width: 70px;
+
   }
   
   .board-row:after {
